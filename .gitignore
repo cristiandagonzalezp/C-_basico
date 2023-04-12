@@ -1,0 +1,28 @@
+# Ignorar los archivos de respaldo creados por Visual Studio
+*~
+
+# Ignorar los archivos binarios compilados
+/bin/
+/obj/
+
+# Ignorar los archivos de caché y otros archivos generados por el sistema
+*.user
+*.vspscc
+*.vssscc
+*.cache
+*.log
+*.npm-debug.log
+
+# Ignorar los archivos de configuración de desarrollo que varían según el entorno
+*.config
+*.config.user
+*.csproj.user
+
+# Ignorar los archivos de configuración específicos de IDE
+*.suo
+*.sln.docstates
+*.sln.ide
+
+# Ignorar los archivos de prueba y ejemplo
+/Example/
+/Test/

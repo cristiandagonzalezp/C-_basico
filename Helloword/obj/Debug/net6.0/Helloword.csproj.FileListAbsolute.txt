@@ -1,0 +1,15 @@
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\bin\Debug\net6.0\Helloword.exe
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\bin\Debug\net6.0\Helloword.deps.json
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\bin\Debug\net6.0\Helloword.runtimeconfig.json
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\bin\Debug\net6.0\Helloword.dll
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\bin\Debug\net6.0\Helloword.pdb
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\obj\Debug\net6.0\Helloword.csproj.AssemblyReference.cache
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\obj\Debug\net6.0\Helloword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\obj\Debug\net6.0\Helloword.AssemblyInfoInputs.cache
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\obj\Debug\net6.0\Helloword.AssemblyInfo.cs
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\obj\Debug\net6.0\Helloword.csproj.CoreCompileInputs.cache
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\obj\Debug\net6.0\Helloword.dll
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\obj\Debug\net6.0\refint\Helloword.dll
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\obj\Debug\net6.0\Helloword.pdb
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\obj\Debug\net6.0\Helloword.genruntimeconfig.cache
+C:\Users\cdgonzalezpa\Documents\student\Curso Basico C#\Helloword\Helloword\obj\Debug\net6.0\ref\Helloword.dll
